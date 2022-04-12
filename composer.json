@@ -5,6 +5,14 @@
     "license": "MIT",
     "repositories": [
         {
+            "type": "vcs",
+            "url": "https://github.com/morpht/convivial-profile.git"
+        },
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        },
+        {
             "type": "composer",
             "url": "https://packages.drupal.org/8"
         },
@@ -28,7 +36,7 @@
     "conflict": {
             "drupal/drupal": "*"
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "prefer-stable": true,
     "extra": {
         "drupal-scaffold": {
