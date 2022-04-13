@@ -74,6 +74,14 @@
         "sort-packages": true,
         "platform": {
             "php": "7.4"
+        },
+        "allow-plugins": {
+            "composer/installers": true,
+            "dealerdirect/phpcodesniffer-composer-installer": true,
+            "cweagans/composer-patches": true,
+            "drupal/core-composer-scaffold": true,
+            "grasmash/drupal-security-warning": true,
+            "oomphinc/composer-installers-extender": true
         }
     }
 }
