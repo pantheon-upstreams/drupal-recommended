@@ -5,10 +5,6 @@
     "license": "MIT",
     "repositories": [
         {
-            "type": "vcs",
-            "url": "https://github.com/morpht/convivial-profile.git"
-        },
-        {
             "type": "composer",
             "url": "https://asset-packagist.org"
         },
