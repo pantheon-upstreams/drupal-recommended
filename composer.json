@@ -77,7 +77,8 @@
             "cweagans/composer-patches": true,
             "drupal/core-composer-scaffold": true,
             "grasmash/drupal-security-warning": true,
-            "oomphinc/composer-installers-extender": true
+            "oomphinc/composer-installers-extender": true,
+            "drupal/core-project-message": true
         }
     }
 }
