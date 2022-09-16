@@ -8,9 +8,6 @@
         }
     ],
     "require": {
-        "drupal/core-composer-scaffold": "^9.1",
-        "drupal/core-project-message": "^9.1",
-        "drupal/core-recommended": "^9.1",
         "morpht/convivial": "dev-main"
     },
     "extra": {
